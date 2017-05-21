@@ -1,0 +1,90 @@
+
+body { 
+	font: 75% verdana;
+	line-height: 1.88889;
+	color: #555753; 
+	background:lightgray; 
+	}
+p { 
+	margin: 2; 
+	}
+h3 { 
+	font: bold normal 1.5em verdana;
+	letter-spacing: 1px; 
+	margin:0px;
+	color: #7D775C;
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: darkcyan;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: darkmagenta;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: darkolivegreen;
+	}
+
+
+.page-wrapper {  
+	padding: 0 100px 0 80px;  
+	margin: 0; 
+	position: relative;
+	}
+#zen-intro {
+	font:verdana;
+	font-weight: italic;
+	}
+#zen-summary {
+	text-align: center;
+	font-weight: bold;
+	display:block;
+	}
+#zen-preamble { 
+	font:verdana;
+	}
+#design-selection{
+	color:darkred;
+}
+#design-archives{
+	color:darkred;
+}
+#zen-resources{
+	color:darkred;
+}
+header h1 { 
+	margin-top: 10px;
+	display: block;
+	width: 200px;
+	height: 80px;
+	float: left;
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+header h2 { 
+	background: transparent; 
+	margin-top: 50px; 
+	margin-bottom: 10px; 
+	width: 200px; 
+	height: 20px; 
+	float: right;
+
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+header {
+	padding-top: 20px;
+	height: 87px;
+	}
+.supporting {	
+	margin:20px;
+	}
+
+
